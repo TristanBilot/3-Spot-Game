@@ -1,4 +1,4 @@
-# Sudoku-game
+# 3-Spot-Game
 
 The intention was to produce the simplest possible game that could be played with a high degree of skill. An attempt was made to fulfill the following conditions:
 
